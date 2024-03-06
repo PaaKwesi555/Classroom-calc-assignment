@@ -1,0 +1,9 @@
+.mainframe{
+    background-color: grey;
+    height: fit-content;
+    width: fit-content;
+}
+
+.p1{
+    align-items: center;
+}
